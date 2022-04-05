@@ -1,0 +1,25 @@
+What are the differences between libraries and framework?
+- They are both written by other programmers and will save you from writing lines of code to make your life easier.
+- Framework inverts control of the program. The library doesn't care about that. When you need them, then you call libraries.
+
+What is npm?
+- You can upload packages as local or global with npm.
+- It comes automatically with nodejs.
+- Deleting, listing, updating packages in the system.
+- Installing packages automatically or manually.
+- It runs on the command line.
+
+What is CLI?
+- Cli is a command line program that accepts text input to execute operating system functions. 
+- Shell manages all the commands which are entered in Cli. It reads and processes the commands. In shortly, Shell is a user interface which connected users to operating systems. The most popular shell programs are Windows shell and Bash(for Linux and MacOS).
+
+What is Bower?
+- Bower can manage components that contain HTML, CSS, JavaScript, fonts or image files. Bower doesn’t concatenate or minify code or do anything else - it just installs the right versions of the packages you need and their dependencies.
+
+What is WebPack?
+- Webpack is an open source Javascript module bundler. Webpack can take care of bundling alongside a separate task runner.
+- It can transform front-end assets such as HTML, CSS, and images if the corresponding loaders are included
+
+What is Babel in Javascript?
+- Babel is a transformer between Ecmascript's versions.
+- Babel is a javascript transcompiler. It is used to convert code written in a version of Javascript (for example, written in ES7) to ES5 code that all browsers support. It can also convert JSX files used by frameworks like reactjs to EcmaScript5.
